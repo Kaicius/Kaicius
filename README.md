@@ -13,8 +13,7 @@
 ## Sobre
 
 - Atuação em desenvolvimento full stack com Python
-* - Pós-graduação em Engenharia de Software e Digital Product Leadership *
-- Experiência em automação de processos e integração de sistemas utilizando Python
+- Cursei ADS no SENAI e atualmente faço Sistemas para a Internet no SENAC
 
 ## Projetos em destaque
 
