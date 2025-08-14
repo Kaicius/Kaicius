@@ -18,4 +18,4 @@
 
 ## Contato
 
-- [LinkedIn]([https://www.linkedin.com/in/lucascorreaa/](https://www.linkedin.com/in/kaio-alves-e-sousa-340899197/))
+- [LinkedIn]([https://www.linkedin.com/in/kaio-alves-e-sousa/](https://www.linkedin.com/in/kaio-alves-e-sousa-340899197/))
