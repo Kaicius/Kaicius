@@ -15,10 +15,6 @@
 - Atuação em desenvolvimento full stack com Python
 - Cursei ADS no SENAI e atualmente faço Sistemas para a Internet no SENAC
 
-## Projetos em destaque
-
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-
 
 ## Contato
 
