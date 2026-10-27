@@ -75,7 +75,7 @@ Estudante de Sistemas para Internet no Senac São Paulo
   <img src="https://img.shields.io/badge/Email-kaioalvesesousa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://wa.me/5511963121397">
-  <img src="https://img.shields.io/badge/Telefone-%2B55%20(11)%209631--21397-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" />
+  <img src="https://img.shields.io/badge/Telefone-%2B55%20(11)%2096312--1397-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" />
 </a>
 <a href="https://www.linkedin.com/in/kaio-alves-e-sousa-340899197">
   <img src="https://img.shields.io/badge/LinkedIn-Kaio%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
